@@ -1,0 +1,8 @@
+{
+  "name": "elite-perfume-store",
+  "version": "1.0.0",
+  "description": "Elite perfume store with Express, SQLite and admin dashboard",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "dependencies": {"better-sqlite3":"^11.7.0","express":"^4.21.2"}
+}
